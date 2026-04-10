@@ -1,5 +1,4 @@
-#EXTM3U url-tvg="http://epg.one/epg.xml; http://uztv.su/uploads/channelsarch/channels.xml; https://epg.iptvx.one/epg_noarch.xml.gz; http://gabbarit.drm-play.com/epg_lite.xml.gz; http://epg.cdntv.online/lite.xml; http://epg.it999.ru/epg.xml.gz; http://iptv-content.rv77.pw/guide-lite.xml"
-#EXTINF:-1,Т-БАНК 2200 7008 5931 7652
+
 #EXTVLCOPT:http-user-agent=http-User-Agent
 https://fl1001.bozztv.com/ushba33/tracks-v1a1/mono.m3u8
 #EXTINF:Andriy="Всі-TV",БЕЛАРУСЬ 1ᴴᴰ
